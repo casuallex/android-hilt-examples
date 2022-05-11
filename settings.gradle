@@ -8,3 +8,6 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Android hilt multimodule"
 include ':app'
+include ':library'
+include ':android-library'
+include ':android-library2'
